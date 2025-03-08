@@ -191,13 +191,14 @@ Hier sind einige der beliebtesten Anwendungen und deren Installationsbefehle:
 
 ---
 
+## Fazit
+
 Mit den oben genannten Befehlen und Tools können Sie Linux Mint effizient verwalten, Probleme beheben und Ihr System an Ihre Bedürfnisse anpassen. Diese Anleitung deckt alle grundlegenden und erweiterten Aspekte ab, die sowohl für Einsteiger als auch für fortgeschrittene Benutzer nützlich sind.
 
 
 # Softwareinstallation leicht gemacht
 
-## 1.Befehle zur Installation wichtiger und häufig verwendeter Tools
-
+## 1. Befehle zur Installation wichtiger und häufig verwendeter Tools
 
 Nach einer Neuinstallation des Systems ist es sinnvoll, einige grundlegende und häufig genutzte Programme zu installieren. Hier sind die entsprechenden Befehle:
 
@@ -238,7 +239,6 @@ sudo snap install discord
 ---
 
 ## 2. Liste grafischer Tools zur Installation
-
 
 Hier ist eine umfassende Liste nützlicher grafischer Anwendungen, die installiert werden können:
 
@@ -640,34 +640,4 @@ sudo apt install arp-scan
 ## Fazit
 
 Die hier vorgestellten Tools und Befehle sind essenziell für die Arbeit mit Netzwerken unter Linux Mint. Mit diesen Werkzeugen können Benutzer Netzwerke analysieren, Probleme beheben und die Leistung optimieren.
-
-# Register
-
-## 1. Wichtige Befehle für die Kommandozeile
-- [1.1 Updates und Upgrades](#11-updates-und-upgrades)
-- [1.2 Festplattenverwaltung](#12-festplattenverwaltung)
-**- [1.3 System aufräumen](#13-system-aufräumen)
-
-## 2. Softwareinstallation leicht gemacht
-- [2.1 Beliebte Anwendungen installieren](#21-beliebte-anwendungen-installieren)
-- [2.2 Erweiterte Systemtools](#22-erweiterte-systemtools)
-
-## 3. Netzwerk- und **Systemtools
-- [3.1 Netzwerkdiagnose](#31-netzwerkdiagnose)
-
-## Softwareinstallation leicht gemacht
-- [1. Befehle zur Installation wichtiger und häufig verwendeter Tools](#1befehle-zur-installation-wichtiger-und-häufig-verwendeter-tools)
-- [2. Liste grafischer Tools zur Installation](#2-liste-grafischer-tools-zur-installation)
-
-## Netzwerk-Tools für Linux Mint
-- [1. Nmap](#1-nmap)
-- [2. Curl](#2-curl)
-- [3. Wireshark](#3-wireshark)
-- [4. Netcat (nc)](#4-netcat-nc)
-- [5. Traceroute](#5-traceroute)
-- [6. IPerf3](#6-iperf3)
-- [7. Arp-scan](#7-arp-scan)
-
-## Fazit
-- [Fazit](#fazit)
 

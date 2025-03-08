@@ -1,13 +1,14 @@
 
 # Softwareinstallation leicht gemacht
 
-## 1. Befehle zur Installation wichtiger und häufig verwendeter Tools
-
-Nach einer Neuinstallation des Systems ist es sinnvoll, einige grundlegende und häufig genutzte Programme zu installieren. Hier sind die entsprechenden Befehle:
-
+## 1. Befehle zur Installation wichtiger und häufig verwendeter 
+Tools
 ```bash
 # System aktualisieren
 sudo apt update && sudo apt upgrade -y
+```
+```
+
 
 # Installation wichtiger Tools
 sudo apt install -y \
@@ -25,11 +26,18 @@ sudo apt install -y \
     traceroute \
     xrdp \
     tmux
+```
+   ```
+---
 
 # Installation von Snap für zusätzliche Software
+```
+
 sudo apt install -y snapd
 
 # Installation häufiger Anwendungen mit Snap
+
+
 sudo snap install telegram-desktop
 sudo snap install whatsdesk
 sudo snap install vscode --classic
